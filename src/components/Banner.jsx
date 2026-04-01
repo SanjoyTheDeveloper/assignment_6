@@ -6,7 +6,6 @@ const Banner = () => {
     <div className="hero min-h-[60vh] bg-transparent py-10 md:py-16">
       <div className="hero-content flex-col lg:flex-row-reverse gap-10 lg:gap-20 w-full p-0">
         <img
-          src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop"
           className="w-full lg:w-1/2 max-w-[550px] rounded-3xl shadow-[0_20px_50px_-12px_rgba(0,0,0,0.15)] object-cover aspect-square"
           alt="Digital workflow"
         />
